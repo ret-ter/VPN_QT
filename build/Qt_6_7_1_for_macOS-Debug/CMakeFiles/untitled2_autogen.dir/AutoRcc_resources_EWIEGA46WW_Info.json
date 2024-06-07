@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/Users/konst/untitled2/build/Qt_6_7_1_for_macOS-Debug/untitled2_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/konst/untitled2/build/Qt_6_7_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/konst/untitled2/build/Qt_6_7_1_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/konst/untitled2",
+	"CMAKE_SOURCE_DIR" : "/Users/konst/untitled2",
+	"INCLUDE_DIR" : "/Users/konst/untitled2/build/Qt_6_7_1_for_macOS-Debug/untitled2_autogen/include",
+	"INPUTS" : [ "/Users/konst/untitled2/background.jpg" ],
+	"LOCK_FILE" : "/Users/konst/untitled2/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/untitled2_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/konst/Qt/6.7.1/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/konst/untitled2/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/untitled2_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/konst/untitled2/resources.qrc",
+	"VERBOSITY" : 0
+}
